@@ -1,5 +1,5 @@
 # MagickaFix
-Small repo with a small fix
+Small repo with a small fix. Steam ver.1.10.4.2
 
 ## Disclaimer:
 This is a surviving copy of the Magicka Fixes v1.5 repository release from [pj1234678](https://github.com/pj1234678).
