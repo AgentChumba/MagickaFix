@@ -1,7 +1,7 @@
 # MagickaFix
 Small repo with a small fix
 
-##Disclaimer:
+## Disclaimer:
 This is a surviving copy of the Magicka Fixes v1.5 repository release from [pj1234678](https://github.com/pj1234678).
 This project is not affiliated with or endorsed by Paradox Interactive. Please use it at your own risk.
 
